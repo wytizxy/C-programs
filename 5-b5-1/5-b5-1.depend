@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1416928243 source:c:\users\zxy\desktop\projects\5-b5-1\5-b5-1.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	<cstdio>
+	<windows.h>
+	<mmsystem.h>
+
