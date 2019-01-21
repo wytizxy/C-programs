@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1416315914 source:c:\users\zxy\desktop\projects\4-b5\4-b5-main.cpp
+	<iostream>
+
+1416315860 source:c:\users\zxy\desktop\projects\4-b5\4-b5-sub.cpp
+	<iostream>
+	<math.h>
+
